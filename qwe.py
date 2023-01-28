@@ -1,9 +1,5 @@
 print ("hellow world")
-#sdfdfddf
-#fdfgvedefge
-#SEDRWFFF
-#DSDSDFS
-#dssfeefge
-#fdsfdfgefgfg
-#fsdffgd
-#fesdf
+class Que:
+   # print ("what")
+    def __init__(self):
+        print(self)
