@@ -158,7 +158,7 @@ class Dog:
         else: self.playing()
         self.hour()
 
-doggy = Dog(name = "Sharik")
+doggy = Dog(name = "Sharikk")
 for i in range (1,13):
     doggy.choicee(i)
 
